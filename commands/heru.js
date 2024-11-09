@@ -2,7 +2,7 @@ const axios = require('axios');
 const { sendMessage } = require('../handles/sendMessage');
 
 module.exports = {
-  name: 'Heru',
+  name: 'heru',
   description: 'Interact with Heru API',
   usage: 'Heru [your message]',
   author: 'Jay Mar',
