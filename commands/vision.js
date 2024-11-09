@@ -1,6 +1,5 @@
 const axios = require('axios');
 const { getImageUrl } = require('../handles/getImageUrl');
-const { sendMessage } = require('../handles/sendMessage');
 
 module.exports = {
   name: 'vision',
